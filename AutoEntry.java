@@ -23,7 +23,7 @@ public class AutoEntry {
         }
     }
 
-    // Parameterized constructor
+
     public AutoEntry(String make, String model, String color, int year, int mileage) {
         try {
             this.make = make;
